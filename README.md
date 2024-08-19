@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/gcgc321/Infrastructure_Automation/blob/main/github-header-image.png?raw=true" alt="Banner Image" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Gabe</h1>
 <h3 align="center">A Passionate IT Professional and Tech Enthusiast</h3>
 
