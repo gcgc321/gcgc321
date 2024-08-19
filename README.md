@@ -18,7 +18,7 @@
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabriel-crawford1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-crawford1234" height="30" width="40" /></a>
-<a href="https://app.hackthebox.com/profile/gcgc321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackthebox.svg" alt="hack the box" height="30" width="40" /></a>
+<a href="https://app.hackthebox.com/profile/gcgc321" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/hackthebox/hackthebox-icon.svg" alt="Hack The Box" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
@@ -35,4 +35,5 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
+  <!-- Add more tools or languages you are familiar with -->
 </p>
