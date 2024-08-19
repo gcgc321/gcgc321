@@ -3,7 +3,10 @@
 
 - 🔭 I’m currently working on **[Raspberry PiHole](https://github.com/gcgc321/RaspberryPi_hole)**
 
-- 🌱 I’m currently learning **Codecademy Computer Science**
+- 🌱 I’m currently learning **[Codecademy Computer Science](https://github.com/gcgc321/CodecademyRepo)**
+
+- ✏️ I have finished **[Dshield Honeypot](https://github.com/gcgc321/Dshield)**
+- 
 
 
 <h3 align="left">Connect with me:</h3>
