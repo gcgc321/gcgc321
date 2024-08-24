@@ -17,7 +17,7 @@
 
 - 💡 I’m always eager to explore new technologies, improve my skills, and collaborate on exciting projects.
 
-- 🎯 **Future Goals:** I aim to delve deeper into cloud computing, cybersecurity, and automation.
+- 🎯 **Future Goals:** I aim to delve deeper into networking, cybersecurity, and automation.
 
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
