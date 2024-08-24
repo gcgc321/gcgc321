@@ -9,11 +9,11 @@
   <img src="https://komarev.com/ghpvc/?username=gcgc321&label=Profile%20views&color=0e75b6&style=flat" alt="gcgc321" />
 </p>
 
-- 🔭 I’m currently working on **[Raspberry PiHole](https://github.com/gcgc321/RaspberryPi_hole)** to create a network-wide ad blocker.
+- 🔭 I’m currently working on **[CCNA Lab Notes](https://github.com/gcgc321/CCNA-lab-notes)** for a better understanding of the Cisco IOS and CLI.
 
 - 🌱 I’m expanding my knowledge with **[Codecademy Computer Science](https://github.com/gcgc321/CodecademyRepo)**, focusing on programming and algorithm design.
 
-- ✏️ I have completed the **[Dshield Honeypot](https://github.com/gcgc321/Dshield)** project, contributing to network security and threat intelligence.
+- ✏️ I have completed the **[Dshield Honeypot](https://github.com/gcgc321/Dshield)** and **[Raspberry PiHole](https://github.com/gcgc321/RaspberryPi_hole)** project, contributing to network security and threat intelligence.
 
 - 💡 I’m always eager to explore new technologies, improve my skills, and collaborate on exciting projects.
 
