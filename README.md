@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Gabe</h1>
-<h3 align="center">A Passionate IT Professional and Tech Enthusiast</h3>
+<h3 align="center">A Passionate Embedded Systems Student and Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gcgc321&label=Profile%20views&color=0e75b6&style=flat" alt="gcgc321" />
