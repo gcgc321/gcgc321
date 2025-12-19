@@ -27,18 +27,34 @@
 </p>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+<p align="left">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a>
-  <!-- Add more tools or languages you are familiar with -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/Embedded_C" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="embedded c" width="40" height="40"/>
+  </a>
+  
+  <a href="https://en.wikipedia.org/wiki/SystemVerilog" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/888/888858.png" alt="systemverilog/vhdl" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/xilinx/xilinx-icon.svg" alt="vivado" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.altium.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/altium/altium-icon.svg" alt="altium" width="40" height="40"/>
+  </a>
+  
 </p>
