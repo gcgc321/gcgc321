@@ -49,12 +49,6 @@
     <img src="https://cdn-icons-png.flaticon.com/512/888/888858.png" alt="systemverilog/vhdl" width="40" height="40"/>
   </a>
 
-  <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/xilinx/xilinx-icon.svg" alt="vivado" width="40" height="40"/>
-  </a>
 
-  <a href="https://www.altium.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/altium/altium-icon.svg" alt="altium" width="40" height="40"/>
-  </a>
   
 </p>
