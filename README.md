@@ -9,15 +9,16 @@
   <img src="https://komarev.com/ghpvc/?username=gcgc321&label=Profile%20views&color=0e75b6&style=flat" alt="gcgc321" />
 </p>
 
-- 🔭 I’m currently working on **[CCNA Lab Notes](https://github.com/gcgc321/CCNA-lab-notes)** for a better understanding of the Cisco IOS and CLI.
+- I’m currently working on **[Machine Learning with Python](https://github.com/gcgc321/Machine-Learning-with-Python)** for a better understanding of ML models.
 
-- 🌱 I’m expanding my knowledge with **[Codecademy Computer Science](https://github.com/gcgc321/CodecademyRepo)**, focusing on programming and algorithm design.
+- I’m expanding my knowledge within Embedded Systems, and focusing on programming in Embedded C and VHDL.
 
-- ✏️ I have completed the **[Dshield Honeypot](https://github.com/gcgc321/Dshield)** and **[Raspberry PiHole](https://github.com/gcgc321/RaspberryPi_hole)** project, contributing to network security and threat intelligence.
+- I have completed the **[Dshield Honeypot](https://github.com/gcgc321/Dshield)**, **[Raspberry PiHole](https://github.com/gcgc321/RaspberryPi_hole)**, **[Pygame Asteroids](https://github.com/gcgc321/asteroids)** and **[Python Bookbot](https://github.com/gcgc321/bookbot)** projects.
 
-- 💡 I’m always eager to explore new technologies, improve my skills, and collaborate on exciting projects.
+- Different Platforms that I have worked on: Arduino Uno, ESP32, STM32, Artix 7, Arty Z7-20
+- Hardware Development: PCB Development with Altium for LDO, Buck Converters, Battery Managment System, RF with GNSS and LoRA
 
-- 🎯 **Future Goals:** I aim to delve deeper into networking, cybersecurity, and automation.
+- **Future Goals:** I hope to understand more about Machine Learning in Embedded Systems and building E2E embedded products from hardware to software.
 
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
