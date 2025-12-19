@@ -15,10 +15,10 @@
 
 - I have completed **[Dshield Honeypot](https://github.com/gcgc321/Dshield)**, **[Raspberry PiHole](https://github.com/gcgc321/RaspberryPi_hole)**, **[Pygame Asteroids](https://github.com/gcgc321/asteroids)** and **[Python Bookbot](https://github.com/gcgc321/bookbot)** projects.
 
-- Different Platforms that I have worked on: Arduino Uno, ESP32, STM32, Artix 7, Arty Z7-20
-- PCB Development with Altium for LDO, Buck Converters, Battery Managment System, RF with GNSS and LoRA
+- Different Platforms that I have worked on: Arduino Uno, ESP32, STM32, Artix 7, Arty Z7-20.
+- PCB Development with Altium for LDO, Buck Converters, Battery Managment System, RF with GNSS and LoRA.
 
-- **Future Goals:** I hope to understand more about Machine Learning in Embedded Systems and building E2E embedded products from hardware to software.
+- **Future Goals:** I hope to understand more about Machine Learning in Embedded Systems and build E2E embedded products from hardware to software.
 
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
