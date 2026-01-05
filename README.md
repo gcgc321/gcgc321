@@ -10,11 +10,7 @@
 </p>
 
 - I’m currently working on **[Machine Learning with Python](https://github.com/gcgc321/Machine-Learning-with-Python)** for a better understanding of ML models.
-
 - I’m expanding my knowledge within Embedded Systems, and focusing on programming in Embedded C and VHDL.
-
-- I have completed **[Dshield Honeypot](https://github.com/gcgc321/Dshield)**, **[Raspberry PiHole](https://github.com/gcgc321/RaspberryPi_hole)**, **[Pygame Asteroids](https://github.com/gcgc321/asteroids)** and **[Python Bookbot](https://github.com/gcgc321/bookbot)** projects.
-
 - Different Platforms that I have worked on: Arduino Uno, ESP32, STM32, Artix 7, Arty Z7-20.
 - PCB Development with Altium for LDO, Buck Converters, Battery Managment System, RF with GNSS and LoRA.
 
