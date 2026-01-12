@@ -9,7 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=gcgc321&label=Profile%20views&color=0e75b6&style=flat" alt="gcgc321" />
 </p>
 
-- I’m currently working on **[Machine Learning with Python](https://github.com/gcgc321/Machine-Learning-with-Python)** for a better understanding of ML models.
 - I’m expanding my knowledge within Embedded Systems, and focusing on programming in Embedded C and VHDL.
 - Different Platforms that I have worked on: Arduino Uno, ESP32, STM32, Artix 7, Arty Z7-20.
 - PCB Development with Altium for LDO, Buck Converters, Battery Managment System, RF with GNSS and LoRA.
